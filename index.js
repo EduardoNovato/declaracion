@@ -2,7 +2,7 @@ const yesBtn = document.querySelector("#yesBtn");
 //const noBtn = document.querySelector("#noBtn");
 
 yesBtn.addEventListener("click", function () {
-  alert("Ya somos maridos");
+  alert("Ya somos nobios Meibis :p");
 });
 
 // noBtn.addEventListener("click", function () {
